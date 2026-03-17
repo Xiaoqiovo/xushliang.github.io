@@ -17,42 +17,54 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 👋 About Me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a PhD student at **City University of Hong Kong** and **Shenzhen Loop Area Institute**, starting in September 2025. My research is centered on the intersection of multi-modal learning and surgical intelligence. I have been deeply involved in developing large-scale clinical AI systems and optimizing foundation models for medical applications.
 
+### 🔍 Research Interests
+* **Multi-modal Learning**: Vision-Language Models (VLMs), Cross-modal Alignment, and Long-video Understanding.
+* **World Models**: Generative World Models for video prediction and spatio-temporal consistency.
+* **Test-Time Adaptation (TTA)**: Efficient adaptation for long-context learning.
+* **Medical AI**: Intelligent analysis for laryngoscopy and respiratory intensive care.
+
+I am currently a Research Assistant at **CAIR, HKISI-CAS**, where I lead projects on intelligent laryngoscopy systems and multi-agent clinical pathways.
+
+<a href='https://scholar.google.com/citations?user=PkvoXRwAAAAJ'>
+  <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+</a>
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.01*: &nbsp;🎉🎉 Three papers (MCDRL, F²-Assist, ReGenHOI) were accepted by **CVPR 2026**!
+- *2025.03*: &nbsp;🚀 We released the "**Qilu-Jingjie**" Laryngoscope Diagnostic Large Model.
+- *2024.12*: &nbsp;📝 Our work on inpatient pathways was published in **npj Health Systems**.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/medical_seg.png' alt="MCDRL" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[MCDRL: Multimodal Causality-Driven Representation Learning for Generalizable Medical Image Segmentation](https://scholar.google.com/citations?user=PkvoXRwAAAAJ)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xusheng Liang**, Lihua Zhou*, Nianxin Li, Miao Xu, Ziyang Song, Dong Yi, Jinlin Wu, Jiawei Ma, et al.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This work introduces a causality-driven approach to align multimodal medical data, significantly improving the generalization of segmentation models across different clinical centers.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- *$F^{2}$-Assist: Multi-Phase Fetal Growth Forecast and Report Generation from Ultrasound Examination*, Bin Pu, **Xusheng Liang**, Xinpeng Ding, et al., **CVPR 2026**
+- *ReGenHOI: Unifying Reconstruction and Generation for 3D Human-Object Interaction Understanding*, Miao Xu, ..., **Xusheng Liang**, et al., **CVPR 2026**
+- *MAP: Evaluation and Multi-Agent Enhancement of Large Language Models for Inpatient Pathways*, Zhen Chen, ..., **Xusheng Liang**, et al., **npj Health Systems**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019-2022* **Pacesetter Scholarship** (Top 5%), Awarded for three consecutive years.
+- *2025.03* Core Contributor to the "Qilu Jingjie" Laryngoscope Diagnostic Large Model.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 - Present*, Joint PhD in Computer Science, **City University of Hong Kong & Shenzhen Loop Area Institute**.
+- *2023.09 - 2024.06*, M.Sc. in Biomedical Engineering, **City University of Hong Kong**.
+- *2019.09 - 2023.06*, B.Sc. in Biomedical Engineering, **University of Electronic Science and Technology of China (UESTC)**.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Experience
+- *2023.07 - Present*, **Research Assistant**, CAIR, HKISI-CAS, Hong Kong.
+  - Developed the "Qilu-Jingjie" MLLM for real-time laryngoscopy analysis (96.4% accuracy).
+  - Optimized InternVL for automatic medical report generation, reducing writing time by 80%.

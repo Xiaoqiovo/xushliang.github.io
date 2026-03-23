@@ -42,7 +42,7 @@ I’m very willing to participate in academic discussions and collaborations, so
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/medical_seg.png' alt="MCDRL" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/figure1_v2.pdf' alt="MCDRL" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MCDRL: Multimodal Causality-Driven Representation Learning for Generalizable Medical Image Segmentation](https://scholar.google.com/citations?user=PkvoXRwAAAAJ)

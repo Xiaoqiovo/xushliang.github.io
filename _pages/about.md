@@ -24,7 +24,6 @@ I am a PhD student at **City University of Hong Kong** supervised by Prof. Ma Ji
 ### 🔍 Research Interests
 * **Multi-modal Learning**: Vision-Language Models (VLMs), Cross-modal Alignment, and Long-video Understanding.
 * **World Models**: Generative World Models for video prediction and spatio-temporal consistency.
-* **Test-Time Adaptation (TTA)**: Efficient adaptation for long-context learning.
 * **Medical AI**: Intelligent analysis for laryngoscopy and respiratory intensive care.
 
 I’m very willing to participate in academic discussions and collaborations, so please feel free to contact me!
